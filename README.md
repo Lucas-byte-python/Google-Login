@@ -5,6 +5,6 @@
 
 ## The interface includes email and password input fields, a login button, and a clean layout, making it a great exercise in CSS styling and element positioning for front-end development practice.
 
-<p aling="center">
+<p align="center">
   <img src="google-login.png" width="auto">
 </p>
